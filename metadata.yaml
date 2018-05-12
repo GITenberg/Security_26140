@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31818'
     url: http://www.gutenberg.org/2009/agents/31818
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26140#Security
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-07-28'
 gutenberg_type: Text
